@@ -1,16 +1,16 @@
 # palm_reading_chatbot_proto
 
-A new Flutter project.
+Palm Reading Chatbot prototype using Data Structure and Algorithm.
 
-## Getting Started
+List and Mapping of Data with the response and showing the result at the end.
 
-This project is a starting point for a Flutter application.
+# Output
+ 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/chaitanyaamle/palm_reading_chatbot_proto/assets/30501921/6f3cc563-26c8-4f62-b17d-d9a8e5e6beb4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+https://github.com/chaitanyaamle/palm_reading_chatbot_proto/assets/30501921/c6bf6ccc-59b3-455a-a96b-67db50b67482
+
